@@ -18,7 +18,7 @@ I've now found something that really excites and motivates me and I'm looking fo
 | [Flare](https://github.com/appflare/flare) | A social, mobile app for sharing spontaneous moments around you | Swift, Xcode, Firebase | XCT |
 | [Instagram Clone](https://github.com/tchungnz/instagram-challenge) | A web app clone of popular social media site, Instagram | Rails, PostgreSQL | Rspec, Capybara |
 | [Fizzbuzz App](https://github.com/tchungnz/fizzbuzz-swift) | A mobile, interactive version of fizzbuzz  | Swift, Xcode | XCT |
-| [Fighter's Academy](https://github.com/tchungnz/battle-app) | A two player, battle game inspired by Street Fighter | Ruby, Sinatra | Rspec, Capybara |
+| [Yelp Clone](https://github.com/tchungnz/yelp-clone) | A web app clone of the restaurant review website, Yelp | Rails, PostgreSQL | Rspec, Capybara |
 
 &nbsp;
 ## Skills
