@@ -16,9 +16,9 @@ I've now found something that really excites and motivates me and I'm looking fo
 |Name|Description|Technologies|Testing
 |---|---|---|---|
 | [Flare](https://github.com/appflare/flare) | A social, mobile app for sharing spontaneous moments around you | Swift, Xcode, Firebase | XCT |
-| [Instagram Clone](https://github.com/tchungnz/instagram-challenge) | A web app clone of popular social media site, Instagram | Rails, PostgreSQL | Rspec, Capybara |
+| [Instagram Clone](https://github.com/tchungnz/instagram-challenge) | A web app clone of popular social media site, Instagram | Rails, PostgreSQL | RSpec, Capybara |
 | [Fizzbuzz App](https://github.com/tchungnz/fizzbuzz-swift) | A mobile, interactive version of fizzbuzz  | Swift, Xcode | XCT |
-| [Yelp Clone](https://github.com/tchungnz/yelp-clone) | A web app clone of the restaurant review website, Yelp | Rails, PostgreSQL | Rspec, Capybara |
+| [Yelp Clone](https://github.com/tchungnz/yelp-clone) | A web app clone of the restaurant review website, Yelp | Rails, PostgreSQL | RSpec, Capybara |
 
 &nbsp;
 ## Skills
