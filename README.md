@@ -24,7 +24,7 @@ I've now found something that really excites and motivates me and I'm looking fo
 ## Skills
 
 #### Learning fast
-I've gotten used to being thrown in the deep end throughout my consulting career, as the projects, industries and clients would constantly change. I was also able to pick up a completely new language and developing environment (Swift/Xcode) to build [Flare] (https://github.com/appflare/flare) in just over a week.
+I've gotten used to being thrown in the deep end throughout my consulting career, as the projects, industries and clients would constantly be changing. I was also able to pick up a completely new language and developing environment (Swift/Xcode) to build [Flare] (https://github.com/appflare/flare) in just over a week.
 
 #### Solving hard problems
 From the first lego set I put together at age 5, to making a rubber band powered car during engineering school, to developing a corporate strategy for a leading bank as a consultant, and now being able to build my own app as a developer, I've always loved the challenge of solving a tough problem.
