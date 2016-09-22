@@ -50,7 +50,7 @@ _Jul ‘15 — Jan '16_
 
 #### Senior Consultant (Deloitte Consulting, New Zealand)
 _Feb ‘10 — Mar ‘15_
-- I was part of the Strategy & Operations practise, focusing on strategy development, target operating model design and implementing operational improvement. I primarily worked for clients in the Financial Services industry, including for big four New Zealand and Australian banks. I was seconded to the Deloitte Australia office for 12 months.
+- I was part of the Strategy & Operations practise, focusing on strategy development and analysing business performance to improve operations. I developed analytical and problem solving skills by working across a wide range of clients and projects in financial services, retail, construction, telecommunications and public sector. I was seconded to the Deloitte Sydney (Australia) office for 12 months.
 
 
 &nbsp;
