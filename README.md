@@ -3,7 +3,7 @@
 
 [projects](#projects) | [skills](#skills) | [experience](#experience) | [education](#education)
 
-I'm a fresh-minded developer with a background in management and digital consulting.
+I'm a fresh-minded developer with six years experience in management and digital consulting.
 
 I've worked on a range of strategy projects and made a tonne of powerpoint slides whilst working in the corporate world, but I've always loved dreaming about new ideas.
 
